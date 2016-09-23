@@ -1,0 +1,8 @@
+C:\Users\mrvad\Desktop\Help\bin\Debug\Help.exe
+C:\Users\mrvad\Desktop\Help\bin\Debug\Help.pdb
+C:\Users\mrvad\Desktop\Help\obj\x86\Debug\Help.exe
+C:\Users\mrvad\Desktop\Help\obj\x86\Debug\Help.pdb
+C:\Users\APotzeluev\Desktop\Help\obj\x86\Debug\Help.exe
+C:\Users\APotzeluev\Desktop\Help\obj\x86\Debug\Help.pdb
+\\192.168.88.10\Tasks\Koleshchuk\Help\obj\x86\Debug\Help.exe
+\\192.168.88.10\Tasks\Koleshchuk\Help\obj\x86\Debug\Help.pdb
